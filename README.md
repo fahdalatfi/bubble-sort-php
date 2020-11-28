@@ -1,2 +1,2 @@
-# bubblesorting-php
-This file is containing bubble sorted array with the number of Comparisons
+# Sorting algorithms in php
+This file is repo is containing the most used sorting algorithms written in php
